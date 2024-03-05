@@ -7,6 +7,7 @@ I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/
 # Serious Data Engineering/ML stuff
 
 ### (Coming up!)
+I wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/main) on Spark once for work to explain to my teammates, including what allows it to work well with huge amounts of data
 
 # Cool projects I've been fiddling with since 2011
 ### (This section, much like the website is currently under construction. Please bear with me as I dig through several years worth of work stored away and make them public!)
