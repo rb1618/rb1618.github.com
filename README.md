@@ -1,4 +1,4 @@
-# Data Scientist, Musician, Writer, Neuroscience Enthusiast, Social Worker, Dragonboat Crew Member
+# Data Scientist, Musician, Writer, Neuroscience Enthusiast
 
 ### Education
 MS, Data Science
