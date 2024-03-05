@@ -6,8 +6,10 @@ I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/
 
 # Serious Data Engineering/ML stuff
 
-### (Coming up!)
+### (A lot more coming up!)
 I wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/main) on Spark once for work to explain to my teammates, including what allows it to work well with huge amounts of data
+
+I created a cool pipeline that could dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some details
 
 # Cool projects I've been fiddling with since 2011
 ### (This section, much like the website is currently under construction. Please bear with me as I dig through several years worth of work stored away and make them public!)
