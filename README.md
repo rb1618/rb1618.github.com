@@ -2,7 +2,7 @@
 
 ### Education
 MS, Data Science <br>
-No seriously, I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/theses/1792/)
+I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/theses/1792/) in 2020 that received some attention
 
 # Serious Data Engineering/ML stuff
 
