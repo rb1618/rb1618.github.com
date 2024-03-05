@@ -3,6 +3,6 @@
 ### Education
 MS, Data Science
 
-## [Streamlit app to calculate sqaures using a slider](https://efficiency-upc-alone-emperor.trycloudflare.com/)
+## [Music Recommendation System, hosted using Streamlit and Frozen Flask](https://github.com/EruditeStranger/Music_Rec/tree/main)
 
 
