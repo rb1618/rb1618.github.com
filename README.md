@@ -1,7 +1,8 @@
 # Data Scientist, Musician, Writer
 
 ### Education
-MS, Data Science. No seriously, I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/theses/1792/) that was downloaded over a 1000 times
+MS, Data Science, NJIT 2020
+No seriously, I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/theses/1792/)
 
 # Serious Data Engineering/ML stuff
 
