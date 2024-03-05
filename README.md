@@ -1,4 +1,4 @@
-# Data Scientist, Musician, Writer, Neuroscience Enthusiast
+# Data Scientist, Musician, Writer
 
 ### Education
 MS, Data Science
