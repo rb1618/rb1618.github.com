@@ -10,6 +10,11 @@ MS, Data Science
 
 ## I taught a CS-401 Intro to Data Science class in 2019. Here's one of the Notebooks I created to introduce students to [Classifiers using Sklearn](https://github.com/EruditeStranger/CS-301-Scikit-Learn)
 
-## I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org), where I led a team of 150 college
+# Stuff I've been outside outside of tech and the sciences
+## I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org), where I led a team of 150. I was also a writer and senior editor before that, [here's](https://www.manipalthetalk.org/?s=rahul+basu) some of my writing
+
+## I'm part of Ohana dragonboat racing team and every year we help with raising money for Boston's beaches by taking a freezing cold plunge at Constitution Beach in March, typically in constumes! Here's some photos from the last two years.
+
+
 
 
