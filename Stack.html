@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Stack UI</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            width: 60%;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-left: 10px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #stack-contents {
+            list-style-type: none;
+            padding: 0;
+            margin-top: 20px;
+        }
+
+        #stack-contents li {
+            background-color: #f2f2f2;
+            padding: 10px;
+            margin-bottom: 5px;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Stack UI</h1>
+        <input type="text" id="value" placeholder="Enter a value">
+        <button id="push">Push</button>
+        <button id="pop">Pop</button>
+        <button id="peek">Peek</button>
+        <p>Stack Contents:</p>
+        <ul id="stack-contents"></ul>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            var stack = [];
+
+            // Handle "Push" button click
+            $('#push').click(function() {
+                var value = $('#value').val();
+                stack = push(stack, value);
+                updateStackContents(stack);
+                $('#value').val('');
+            });
+
+            // Handle "Pop" button click
+            $('#pop').click(function() {
+                stack = pop(stack);
+                updateStackContents(stack);
+            });
+
+            // Handle "Peek" button click
+            $('#peek').click(function() {
+                var top = peek(stack);
+                if (top !== null) {
+                    alert('Top of the stack: ' + top);
+                } else {
+                    alert('Stack is empty');
+                }
+            });
+
+            // Function to update the stack contents in the UI
+            function updateStackContents(stack) {
+                var stackContents = $('#stack-contents');
+                stackContents.empty();
+                $.each(stack, function(index, value) {
+                    stackContents.append('<li>' + value + '</li>');
+                });
+            }
+
+            // Implement your Python Stack class functions here
+            function push(lst, num) {
+                if (!Array.isArray(lst)) {
+                    throw new TypeError("The first argument needs to be a list");
+                }
+                lst.push(num);
+                return lst;
+            }
+
+            function pop(lst) {
+                if (!Array.isArray(lst)) {
+                    throw new TypeError("The first argument needs to be a list");
+                }
+                if (lst.length === 0) {
+                    return "List is empty";
+                }
+                try {
+                    lst.pop();
+                    return lst;
+                } catch (e) {
+                    return null;
+                }
+            }
+
+            function peek(lst) {
+                if (!Array.isArray(lst)) {
+                    throw new TypeError("First argument needs to be a list");
+                }
+                if (lst.length === 0) {
+                    return null;
+                }
+                try {
+                    return lst[lst.length - 1];
+                } catch (e) {
+                    return null;
+                }
+            }
+        });
+    </script>
+</body>
+</html>
