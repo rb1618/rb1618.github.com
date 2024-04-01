@@ -20,7 +20,7 @@ I created a cool pipeline that could dynamically create Neo4j graphs from data i
 ### My friend Michael Lan and I did some time-series analysis on the stock market to make a week's worth of predictions and it was pretty neat! [Check it out](https://github.com/EruditeStranger/Stock-Market-Analysis)
 
 # Stuff I've been doing outside of tech and the sciences
-### I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org) a lifetime ago, where I led a team of 150. I was also a writer and senior editor before that, [here's](https://www.manipalthetalk.org/?s=rahul+basu) some of my writing
+### I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org) a lifetime ago, a student led media body where I led a team of around 50 people. I was also a writer and senior editor before that, [here's](https://www.manipalthetalk.org/?s=rahul+basu) some of my writing
 
 ![MTTN 2015](https://github.com/rb1618/rb1618.github.com/blob/main/GH_Website/MTTN.jpg)
 
