@@ -22,7 +22,7 @@ I created a cool pipeline that could dynamically create Neo4j graphs from data i
 # Stuff I've been doing outside of tech and the sciences
 ### I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org) a lifetime ago, a student led media body where I led a team of around 50 people. I was also a writer and senior editor before that, [here's](https://www.manipalthetalk.org/?s=rahul+basu) some of my writing
 
-![MTTN 2015](https://github.com/rb1618/rb1618.github.com/blob/main/GH_Website/MTTN.jpg)
+![MTTN 2015](docs/assets/MTTN.jpg)
 
 ### I'm part of Ohana dragonboat racing team and every year we help with raising money for Boston's beaches by taking a freezing cold plunge at Constitution Beach in March, typically in constumes! Here's some photos from the last two years.
 
