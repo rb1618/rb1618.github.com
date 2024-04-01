@@ -7,7 +7,7 @@ I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/
 
 ### (A lot more coming up!)
 
-I wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/main) on Spark once for work to explain to my teammates, including what allows it to work well with huge amounts of data
+I wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/main) on Spark once for work to explain to my teammates at Accenture, including what allows Databricks to work well with huge amounts of data.
 
 I created a cool pipeline that could dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some details
 
