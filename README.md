@@ -22,6 +22,8 @@ I taught a CS-401 Intro to Data Science class in 2019. Here's one of the Noteboo
 
 My friend Michael Lan and I did some time-series analysis on the stock market to make a week's worth of predictions and it was pretty neat! [Check it out](https://github.com/EruditeStranger/Stock-Market-Analysis)
 
+I was experimenting with Augmented Reality with Unity and Vuforia during my Co-Op with Verizon in 2019. [Here's a video clip playing on my t-shirt, which a small explanation of how I did it](https://www.youtube.com/watch?v=q2IQPzE1uxw)
+
 # Stuff I've been doing outside of tech and the sciences
 I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org) a lifetime ago, a student led media body where I led a team of around 50 people. I was also a writer and senior editor before that, [here's](https://www.manipalthetalk.org/?s=rahul+basu) some of my writing
 
