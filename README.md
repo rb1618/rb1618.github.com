@@ -26,6 +26,6 @@ I created a cool pipeline that could dynamically create Neo4j graphs from data i
 
 ### I'm part of Ohana dragonboat racing team and every year we help with raising money for Boston's beaches by taking a freezing cold plunge at Constitution Beach in March, typically in constumes! Here's some photos from the last two years.
 
-![Save the Harbor Event 2024](https://github.com/rb1618/rb1618.github.com/blob/main/GH_Website/Ohana2024.jpg)
+![Save the Harbor Event 2024](docs/assets/Ohana2024.jpg)
 
 
