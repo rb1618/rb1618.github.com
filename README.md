@@ -6,9 +6,12 @@ I published a [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/
 # Serious Data Engineering/ML stuff
 
 ### (A lot more coming up!)
+
 I wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/main) on Spark once for work to explain to my teammates, including what allows it to work well with huge amounts of data
 
 I created a cool pipeline that could dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some details
+
+I currently volunteer as an ML Research Collaborator at a stealth startup, helping develop novel techniques for assisting with data engineering and ML to aid cancer and drug discovery research. Areas of research include using LLMs to automate the code generation process for in-silico research experiments, RLHF, creating a knowledge graph for RAG. For NDA related reasons, I can't make any of the work public but happy to chat about it!
 
 # Cool projects I've been fiddling with since 2011
 (This section, much like the website is currently under construction. Please bear with me as I dig through several years worth of work stored away and make them public!)
