@@ -13,7 +13,7 @@ Wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/mai
 
 Created a pipeline that can dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some imolementation details
 
-<img src="docs/assets/images/spark_physical_architecture.svg" width="400" height="400">
+<img src="docs/assets/images/KNIME_vhigh.png" width="400" height="400">
 
 Taught a CS-401 Intro to Data Science class 5 years ago. Here's one of the Notebooks I created to introduce students to [Classifiers using Sklearn](https://github.com/EruditeStranger/CS-301-Scikit-Learn)
 
