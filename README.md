@@ -1,7 +1,7 @@
 # Data Scientist, Musician, Writer
 
 ### MS, Data Science <br>
-Here my master's [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/theses/1792/) in 2020 that received some attention
+Here my master's [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/theses/1792/) from 2020
 
 # Serious Data Engineering/ML stuff
 
