@@ -17,7 +17,11 @@ Created a pipeline that can dynamically create Neo4j graphs from data in Signals
 
 Taught a CS-401 Intro to Data Science class 5 years ago. Here's one of the Notebooks I created to introduce students to [Classifiers using Sklearn](https://github.com/EruditeStranger/CS-301-Scikit-Learn)
 
-My friend Michael Lan and I did some time-series analysis on the stock market to make a week's worth of predictions and it was pretty neat! [Check it out](https://github.com/EruditeStranger/Stock-Market-Analysis)
+<img src="docs/assets/images/classifiers.png" width="400" height="400">
+
+My friend Michael Lan and I did some time-series analysis on the stock market to make a week's worth of predictions using LSTMs! [Check it out](https://github.com/EruditeStranger/Stock-Market-Analysis)
+
+<img src="docs/assets/images/Stocks.png" width="400" height="400">
 
 I currently volunteer as an ML Research Collaborator at a stealth startup, helping develop novel techniques for assisting with data engineering and ML to aid cancer and drug discovery research. Areas of research include using LLMs to automate the code generation process for in-silico research experiments, RLHF, creating a knowledge graph for RAG. For NDA related reasons, I can't make any of the work publicly available but happy to chat about it!
 
