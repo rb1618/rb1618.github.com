@@ -39,10 +39,10 @@ A bunch of Python code using OpenCV to recognize faces in a live stream from a [
 # Stuff I've been doing outside of tech and the sciences
 I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org) a lifetime ago, a student led media body where I led a team of around 50 people. I was also a writer and senior editor before that, [here's](https://www.manipalthetalk.org/?s=rahul+basu) some of my writing
 
-![MTTN 2015](docs/assets/images/MTTN.jpg)
+<img src="docs/assets/images/MTTN.jpg" width="400" height="400">
 
-I'm part of Ohana dragonboat racing team and every year we help with raising money for Boston's beaches by taking a freezing cold plunge at Constitution Beach in March, typically in constumes! Here's some photos from the last two years.
+I'm part of Ohana dragonboat racing team and every year we help with raising money for Boston's beaches by taking a freezing cold plunge at Constitution Beach in March, typically in constumes! Here's a photo from this year!
 
-![Save the Harbor Event 2024](docs/assets/images/Ohana2024.jpg)
+<img src="docs/assets/images/Ohana2024.png" width="400" height="400">
 
 
