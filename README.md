@@ -3,11 +3,13 @@
 ### MS, Data Science <br>
 Here my master's [thesis on Privacy Preserving ML](https://digitalcommons.njit.edu/theses/1792/) from 2020
 
-# Serious Data Engineering/ML stuff
+# Data Engineering
 
 ### (A lot more coming up!)
 
 Wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/main) on Spark once for work to explain to my teammates at Accenture, including what allows Databricks to work well with huge amounts of data.
+
+![MTTN 2015](docs/assets/images/MTTN.jpg)
 
 Created a cool pipeline that could dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some details
 
