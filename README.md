@@ -9,7 +9,7 @@ Here my master's [thesis on Privacy Preserving ML](https://digitalcommons.njit.e
 
 Wrote a [small article](https://github.com/EruditeStranger/Spark_Docker/tree/main) on Spark once for work to explain to my teammates at Accenture, including what allows Databricks to work well with huge amounts of data.
 
-<img src="docs/assets/images/spark_physical_architecture.svg" width="100" height="100">
+<img src="docs/assets/images/spark_physical_architecture.svg" width="250" height="250">
 
 Created a cool pipeline that could dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some details
 
