@@ -42,6 +42,9 @@ I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org) a lifetime
 
 <img src="docs/assets/images/MTTN.jpg" width="750" height="400">
 
+I did some grant writing with Inspiralia USA from 2020-2021. Here is one of my writing samples for a Phase 1 NSF Grant which went through to the next phase of the approval process. [Link](https://github.com/EruditeStranger/Writing-Samples)
+
+
 I'm part of Ohana dragonboat racing team and every year we help with raising money for Boston's beaches by taking a freezing cold plunge at Constitution Beach in March, typically in constumes! Here's a photo from this year!
 
 <img src="docs/assets/images/Ohana2024.jpg" width="600" height="400">
