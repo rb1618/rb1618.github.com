@@ -11,7 +11,7 @@ Here my master's [thesis on Privacy Preserving ML](https://digitalcommons.njit.e
 
 <img src="docs/assets/images/spark_physical_architecture.svg" width="400" height="400">
 
-2) Created a pipeline that can dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some imolementation details
+2) Created a pipeline that can dynamically create Neo4j graphs from data in Signals Electronic Lab Notebooks. [Here](https://github.com/EruditeStranger/KNIME_Neo4j_UPL/blob/main/README.md) are some implementation details
 
 <img src="docs/assets/images/KNIME_vhigh.png" width="400" height="400">
 
