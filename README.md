@@ -40,7 +40,7 @@ Taught a CS-401 Intro to Data Science class 5 years ago. Here's one of the Noteb
 # Stuff I've been doing outside of tech and the sciences
 I was the editor-in-chief at [manipalthetalk.org](manipalthetalk.org) a lifetime ago, a student led media body where I led a team of around 50 people. I was also a writer and senior editor before that, [here's](https://www.manipalthetalk.org/?s=rahul+basu) some of my writing
 
-<img src="docs/assets/images/MTTN.jpg" width="750" height="400">
+<img src="docs/assets/images/MTTN.jpg" width="850" height="400">
 
 I did some grant writing with Inspiralia USA from 2020-2021. Here is one of my writing samples for a Phase 1 NSF Grant which went through to the next phase of the approval process. [Link](https://github.com/EruditeStranger/Writing-Samples)
 
